@@ -1,0 +1,1 @@
+# get-network-connected-info-with-device-name
